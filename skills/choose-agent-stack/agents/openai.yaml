@@ -1,4 +1,0 @@
-interface:
-  display_name: "Choose an Agent Stack"
-  short_description: "Choose browser agents with minimal questions"
-  default_prompt: "Use $choose-agent-stack to recommend a browser or computer-agent stack with the fewest necessary questions."

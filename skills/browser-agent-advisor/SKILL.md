@@ -1,9 +1,9 @@
 ---
-name: choose-agent-stack
+name: browser-agent-advisor
 description: Choose a browser or computer-agent product, SDK, or infrastructure stack with the fewest decision-changing questions. Use to compare Browserbase, Browser Use, Kernel, Stagehand, ChatGPT/OpenAI, Muse or Instinct; map dependencies; or generate an offline interactive questionnaire and capability matrix. Does not deploy agents or claim a measured performance winner.
 ---
 
-# Choose an agent stack
+# Browser Agent Advisor
 
 Recommend fit for a task and constraints, not a universal winner. Use existing context before asking questions. Treat bundled September 2026 research as historical evidence, not current truth.
 
